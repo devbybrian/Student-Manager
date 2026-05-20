@@ -1,0 +1,14 @@
+C:\3rd Year College\CSharp\StudentManager\bin\Debug\net8.0\StudentManager.exe
+C:\3rd Year College\CSharp\StudentManager\bin\Debug\net8.0\StudentManager.deps.json
+C:\3rd Year College\CSharp\StudentManager\bin\Debug\net8.0\StudentManager.runtimeconfig.json
+C:\3rd Year College\CSharp\StudentManager\bin\Debug\net8.0\StudentManager.dll
+C:\3rd Year College\CSharp\StudentManager\bin\Debug\net8.0\StudentManager.pdb
+C:\3rd Year College\CSharp\StudentManager\obj\Debug\net8.0\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\3rd Year College\CSharp\StudentManager\obj\Debug\net8.0\StudentManager.AssemblyInfoInputs.cache
+C:\3rd Year College\CSharp\StudentManager\obj\Debug\net8.0\StudentManager.AssemblyInfo.cs
+C:\3rd Year College\CSharp\StudentManager\obj\Debug\net8.0\StudentManager.csproj.CoreCompileInputs.cache
+C:\3rd Year College\CSharp\StudentManager\obj\Debug\net8.0\StudentManager.dll
+C:\3rd Year College\CSharp\StudentManager\obj\Debug\net8.0\refint\StudentManager.dll
+C:\3rd Year College\CSharp\StudentManager\obj\Debug\net8.0\StudentManager.pdb
+C:\3rd Year College\CSharp\StudentManager\obj\Debug\net8.0\StudentManager.genruntimeconfig.cache
+C:\3rd Year College\CSharp\StudentManager\obj\Debug\net8.0\ref\StudentManager.dll
