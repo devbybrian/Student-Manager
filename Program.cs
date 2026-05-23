@@ -92,7 +92,7 @@ class StudentManager
 
     public string SearchStudentByName(string name)
     {
-        if (StudentData.Values.FirstOrDefault(s => s.Name == name) != null)
+        if (StudentData.TryGetValue(name, out Student? value))
         {
             return $"{name} found";
         }
